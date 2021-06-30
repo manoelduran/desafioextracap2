@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://cdn.panelinha.com.br/receita/1588270905274-39_Panelinha_12_02_200635.jpg",
+      "name": "Feijoadinha Brasileira do Sucesso",
+      "price": "50.00",
+      "description": "Feijada do sucesso, coma e vire o Hulk",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "",
+      "name": "dasdas",
+      "price": "dasdas",
+      "description": "dsadas",
+      "available": true,
+      "id": 5
     }
   ]
 }
